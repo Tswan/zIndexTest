@@ -1,0 +1,12 @@
+{
+  "name": "zIndexTest",
+  "displayName": "zIndexTest",
+  "expo": {
+    "name": "zIndexTest",
+    "slug": "zIndexTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
